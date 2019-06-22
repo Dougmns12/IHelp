@@ -1,0 +1,35 @@
+body{
+	font-family: 'Baloo', cursive;
+}
+.btn{
+	background-color: #61b1b6;
+	color: white;
+}
+.login{
+	background-color: #ff9100;
+	color: white;
+}
+.logout{
+	background-color: #ffcc00;
+	color: white;
+}
+header {
+  padding: 150px 0px 100px;
+}
+.comentario{
+	padding-top: 100px;
+	color: black;
+}
+.text{
+	width:100px;
+}
+.espacamento{
+	padding: 50px 0px 0px 80px;
+	padding-top:10px;
+}
+.estilotextarea{
+	background-border:#ff9100;
+}
+.enviar{
+	background-color: #ff9100;
+}
